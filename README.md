@@ -6,3 +6,5 @@ Repositorio para estudiar Python
 Este repositorio está clonado en mis dos equipos:
 - Notebook personal: Fedora Linux
 - Notebook de trabajo: Ubuntu/WSL
+
+Se ha configurado "credential.helper -> store" en ambos equipos: Validado/Fedora - Validado/Ubuntu
