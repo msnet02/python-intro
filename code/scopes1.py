@@ -1,15 +1,13 @@
-# Ambito Local versus Ambito Global
+# Local versus Global
 
-# Definición de la función local()
+# We define a function, called local
 def local():
-    # El ámbito de m es local
     m = 7
     print(m)
 
-# Código principal del programa
-# El ámbito de m es global
+# Main code
 m = 5
 print(m)
 
-# Llamada a la función local()
+# We call, or 'execute' the function local
 local()
