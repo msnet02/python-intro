@@ -9,3 +9,4 @@ Este repositorio está clonado en mis dos equipos:
 
 Se ha configurado "credential.helper -> store" en ambos equipos: Validado/Fedora - Validado/Ubuntu.
 Se ha configurado un "entorno virtual" para este repositorio.
+Se ha reorganizado el código; creando el directorio: python-intro/code
