@@ -4,8 +4,8 @@ Repositorio para estudiar Python
 [Inicio del plan de estudio: 21/06/2025]
 
 Este repositorio está clonado en los siguientes equipos: 
-- Notebook/personal: msnotebook2 - SO: Fedora Linux
-- Notebook/trabajo: ARG-PF33XZ9F - SO: Ubuntu/WSL
+- Notebook/personal: msnotebook2 - SO: Fedora Linux 42 (Workstation Edition)
+- Notebook/trabajo: ARG-PF33XZ9F - SO: Ubuntu 24.04 (WSL)
 - Servidor/LAB: doc-srv-gen-01.doc.lab - SO: CentOS Stream 9
 - Servidor/LAB: doc-srv-gen-02.doc.lab - SO: FreeBSD 14.1-RELEASE-p5
 
