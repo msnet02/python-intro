@@ -9,6 +9,6 @@ Este repositorio está clonado en los siguientes equipos:
 - Servidor/LAB: doc-srv-gen-01.doc.lab - SO: CentOS Stream 9
 - Servidor/LAB: doc-srv-gen-02.doc.lab - SO: FreeBSD 14.1-RELEASE-p5
 
-Se ha configurado "credential.helper -> store" en todos los equipos.
-Se ha configurado un "entorno virtual" a nivel local, para este repositorio.
+Se ha configurado git agregando "credential.helper -> store" en todos los equipos.
+Se ha configurado un "entorno virtual" a nivel local en cada equipo, para este repositorio.
 Se ha reorganizado el código; creando el directorio: python-intro/code.
