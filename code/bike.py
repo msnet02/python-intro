@@ -12,17 +12,17 @@ class Bike:
 
 # Main code
 # Let's create a couple of intances
-red_bike = Bike('Red', 'Carbon fiber')
-blue_bike = Bike('Blue', 'Steel')
+bike_one = Bike('Red', 'Carbon fiber')
+bike_two = Bike('Blue', 'Steel')
 
 # Let's inspect the objects we have, instances of the Bike class
-print(red_bike.colour) # prints: Red
-print(red_bike.frame_material) # prints: Carbon fiber
-print(blue_bike.colour) # prints: Blue
-print(blue_bike.frame_material) # prints: Steel
+print(bike_one.colour) # prints: Red
+print(bike_one.frame_material) # prints: Carbon fiber
+print(bike_two.colour) # prints: Blue
+print(bike_two.frame_material) # prints: Steel
 
 # Let's brake!
-red_bike.brake() # prints: Braking!
+bike_one.brake() # prints: Braking!
 
 # Let's drive!
-blue_bike.drive() # prints: Driving!
+bike_two.drive() # prints: Driving!
