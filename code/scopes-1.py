@@ -1,3 +1,6 @@
+# Programa: scopes-1.py
+# Actualización: 22/06/2025
+
 # Local versus Global
 
 # We define a function, called local

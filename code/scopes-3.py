@@ -1,3 +1,6 @@
+# Programa: scopes-3.py
+# Actualización: 22/06/2025
+
 # Local, Enclosing and Global
 
 def enclosing_func():

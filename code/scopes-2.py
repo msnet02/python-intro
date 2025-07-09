@@ -1,3 +1,6 @@
+# Programa: scopes-2.py
+# Actualización: 22/06/2025
+
 # Local versus Global
 
 def local():

@@ -1,3 +1,6 @@
+# Programa: bike.py
+# Actualización: 28/06/2025
+
 # Let's define the class Bike
 class Bike:
     def __init__(self, name, colour, frame_material):
