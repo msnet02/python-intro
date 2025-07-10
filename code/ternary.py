@@ -1,5 +1,5 @@
 # Programa: ternary.py
-# Actualización: 09/07/2025
+# Creación: 09/07/2025
 
 # Main code
 order_total = 100

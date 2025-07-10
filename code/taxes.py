@@ -1,5 +1,5 @@
 # Programa: taxes.py
-# Actualización: 09/07/2025
+# Creación: 09/07/2025
 
 # Main code
 income = 30000 

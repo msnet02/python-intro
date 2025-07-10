@@ -1,5 +1,5 @@
 # Programa: bike.py
-# Actualización: 28/06/2025
+# Creación: 28/06/2025
 
 # Let's define the class Bike
 class Bike:

@@ -1,5 +1,5 @@
 # Programa: error-alert.py 
-# Actualización: 09/07/2025
+# Creación: 09/07/2025
 
 def send_email(email_address, error_message):
     """Función que simula el envío de un mensaje por Email"""

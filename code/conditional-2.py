@@ -1,5 +1,5 @@
 # Programa: conditional-2.py
-# Actualización: 09/07/2025
+# Creación: 09/07/2025
 
 # Main code
 late = False
