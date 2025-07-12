@@ -1,7 +1,7 @@
 # Programa: simple-for-2.py
 # Creación: 11/07/2025
 
-# Let's create the show_message() funtion
+# Let's create the show_message() function
 def show_message(text):
     print(f"{'-' * 3}\n{text}:")
 
