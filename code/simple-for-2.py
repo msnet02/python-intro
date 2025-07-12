@@ -3,7 +3,7 @@
 
 # Let's create the show_message() funtion
 def show_message(text):
-	print(f"{'-' * 3}\n{text}:")
+    print(f"{'-' * 3}\n{text}:")
 
 # Main code
 
@@ -11,4 +11,4 @@ def show_message(text):
 show_message('Using built-it function range(len(surnames))')
 surnames = ['Rivest', 'Shamir', 'Adleman']
 for position in range(len(surnames)):
-	print(position, surnames[position])
+    print(f"{position} - {surnames[position]}")

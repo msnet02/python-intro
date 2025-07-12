@@ -6,9 +6,9 @@ order_total = 100
 
 # Classic if/else form
 if order_total > 100:
-	discount = 25
+    discount = 25
 else:
-	discount = 0
+    discount = 0
 print(f"Orden total: {order_total} | Descuento: {discount}")
 
 # Ternary operator
