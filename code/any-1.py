@@ -8,7 +8,7 @@ for item in items:
     print(f"scanning item: {item}")
     if item:
         found = True # we update the flag
-        break
+        break # This ends the 'for' loop
 
 if found: # we inspect the flag
     print(f"At least one item evaluates to 'True'")

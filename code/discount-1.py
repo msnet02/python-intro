@@ -28,6 +28,6 @@ show_current_prices(products)
 show_separator()
 for product in products:
     if product['expiration_date'] != today:
-        continue # No applying any discounts
+        continue # No applying any discounts: This stops current iteration
     product['price'] *= 0.8 # equivalent to applying 20% discount
     print(f"Price for sku {product['sku']} is now {product['price']}")
