@@ -3,7 +3,7 @@
 
 def send_email(email_address, error_message):
     """Función que simula el envío de un mensaje por Email"""
-    print(f"Se ha enviado el mensaje: {error_message}\nAl destinatario: {email_address}")
+    print(f"Notificación: {error_message} -> Destinatario: {email_address}")
 
 # Main code
 alert_system = 'email' # Possible values: 'console' or 'email' 
