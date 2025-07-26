@@ -2,15 +2,14 @@
 # Creación: 26/07/2025
 
 def fibonacci(lim_sup):
+    result = [] # Se crea un lista vacía que contendrá los elementos de la sucesión
     a, b = 0, 1 # Simplificación gracias a la asignación doble
-    result = [a, b] # Se crea una lista con los dos primeros elementos de la suceción
     
-    # Bucle para generar la sucesión, desde el tercer elemento en adelante
+    # Bucle para añadir a la lista todos los elementos de la sucesión
     while a < lim_sup:
+        result.append(a)
         a, b = b, a + b # Intercambio de valores gracias a la asignación doble
-        if b < lim_sup:
-            result.append(b)
-
+    
     return result # Devuelve la sucesión como una lista
 
 # Main code
