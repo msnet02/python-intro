@@ -13,5 +13,5 @@ def fibonacci(lim_sup):
     return result # Devuelve la sucesión como una lista
 
 # Main code
-sucesion = fibonacci(1000) # El mayor elemento de la sucesión deberá menor que 1000
+sucesion = fibonacci(1000) # El mayor elemento de la sucesión deberá ser menor que 1000
 print(sucesion)
