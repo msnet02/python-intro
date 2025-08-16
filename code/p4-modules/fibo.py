@@ -4,7 +4,7 @@
 """ Sucesión de Fibonacci: Usar desde el intérprete de Python."""
 
 def fibo1(n):
-    """Función que muestra la Sucesión de Fibonacci hasta n."""
+    """ Función que muestra la Sucesión de Fibonacci hasta n."""
     a, b = 0, 1
     while a < n:
         print(a, end=' ')
@@ -12,7 +12,7 @@ def fibo1(n):
     print() # Genera un salto de línea al final
 
 def fibo2(n):
-    """Función que devuelve la Sucesión de Fibonacci hasta n."""
+    """ Función que devuelve la Sucesión de Fibonacci hasta n."""
     result = []
     a, b = 0, 1
     while a < n:
