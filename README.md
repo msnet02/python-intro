@@ -12,3 +12,6 @@ Este repositorio está clonado en los siguientes equipos:
 Se ha configurado git agregando "credential.helper -> store" en todos los equipos.
 Se ha configurado un "entorno virtual" a nivel local en cada equipo, para este repositorio.
 Se ha reorganizado el código; creando el directorio: python-intro/code.
+
+[Actualización del Personal Access Token: 20/09/2025]
+Se realiza esta modificación para forzar la actualización del Personal Access Token.
