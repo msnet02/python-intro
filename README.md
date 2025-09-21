@@ -18,3 +18,6 @@ Modificación menor en ARG-PF33XZ9F: Actualización de Personal Access Token.
 
 [Actualización del Personal Access Token: 21/09/2025]
 Modificación menor en doc-srv-gen-01.doc.lab: Actualización de Personal Access Token.
+
+[Actualización del Personal Access Token: 21/09/2025]
+Modificación menor en doc-srv-gen-02.doc.lab: Actualización de Personal Access Token.
