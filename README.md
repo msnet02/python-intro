@@ -4,9 +4,8 @@ Repositorio para estudiar Python
 [Inicio del plan de estudio: 21/06/2025]
 
 Este repositorio está clonado en los siguientes equipos: 
-- Notebook/personal: msnotebook2 - SO: Fedora Linux 42 (Workstation Edition)
 - Notebook/trabajo: ARG-PF33XZ9F - SO: Ubuntu 24.04 (WSL)
-- Servidor/LAB: doc-srv-gen-01.doc.lab - SO: CentOS Stream 9
+- Servidor/LAB: doc-srv-gen-01.doc.lab - SO: Fedora 43 (Server Edition) 
 - Servidor/LAB: doc-srv-gen-02.doc.lab - SO: FreeBSD 14.1-RELEASE-p5
 
 Se ha configurado git agregando "credential.helper -> store" en todos los equipos.
@@ -21,3 +20,6 @@ Modificación menor en doc-srv-gen-01.doc.lab: Actualización de Personal Access
 
 [Actualización del Personal Access Token: 21/09/2025]
 Modificación menor en doc-srv-gen-02.doc.lab: Actualización de Personal Access Token.
+
+[Actualización del Personal Acceso Token: 19/11/2025]
+Se ha modificado el archivo README.md para indicar que se ha cambiado el sistema operativo del servidor doc-srv-gen-01 de CentOS Stream 9 ha Fedora 43 (Server Edition). Además, se elimina la referencia a Notebook/Personal "msnotebook2".
