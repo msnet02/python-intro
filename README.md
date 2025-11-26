@@ -13,4 +13,4 @@ Se ha configurado un "entorno virtual" a nivel local en cada equipo, para este r
 Se ha reorganizado el código; creando el directorio: python-intro/code.
 
 [Actualización del Personal Access Token: 19/11/2025]
-Repositorio actualizado en los equipos indicados: ARG-PF33XZ9F, doc-srv-gen1-01, doc-srv-gen-02.
+Repositorio actualizado en los equipos indicados: ARG-PF33XZ9F, doc-srv-gen-01 y doc-srv-gen-02.
