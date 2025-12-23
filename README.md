@@ -15,3 +15,4 @@ Se ha reorganizado el código; creando el directorio: python-intro/code.
 [Actualización del Personal Access Token: 23/12/2025]
 Se actualiza el Personal Access Token en los 3 equipos.
 doc-srv-gen-01: actualizado.
+doc-srv-gen-02: actualizado.
