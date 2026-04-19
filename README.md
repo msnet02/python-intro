@@ -11,15 +11,9 @@ Se ha configurado git agregando "credential.helper -> store" en todos los equipo
 Se ha configurado un "entorno virtual" a nivel local en cada equipo, para este repositorio.
 Se ha reorganizado el código; creando el directorio: python-intro/code.
 
-[Actualización del Personal Access Token: 23/12/2025]
-Se actualiza el Personal Access Token en los 3 equipos.
-doc-srv-gen-01: actualizado.
-doc-srv-gen-02: actualizado.
-
 [Actualización de equipos]
 Queda inhabilitado el servidor doc-srv-gen-02.
 
-[Actualización del Personal Access Token: 12/03/2026]
-Se actualiza el Personal Access Token en los 2 equipo.
+[Actualización del Personal Access Token: 19/04/2026]
+Se actualiza el Personal Access Token en los 2 equipos.
 ARG-PF33XZ9F: actualizado.
-doc-srv-gen-01.doc.lab: actualizado.
