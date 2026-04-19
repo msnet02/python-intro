@@ -17,3 +17,4 @@ Queda inhabilitado el servidor doc-srv-gen-02.
 [Actualización del Personal Access Token: 19/04/2026]
 Se actualiza el Personal Access Token en los 2 equipos.
 ARG-PF33XZ9F: actualizado.
+doc-srv-gen-01.doc.lab: actualizado.
