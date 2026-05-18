@@ -17,7 +17,7 @@ Se actualiza el Personal Access Token en los equipos:
 ARG-PF33XZ9F: actualizado.
 doc-srv-gen-01.doc.lab: actualizado.
 
-[Reoganización del entorno virtual en python-intro/.venv: 17/05/2026]
+[Reoganización del entorno virtual en python-intro/venv: 18/05/2026]
 Se reorganiza el entorno virtual en el directorio python-intro/venv.
 
 [Clonación del repositorio a doc-srv-gen-02: PROXIMAMENTE] 
