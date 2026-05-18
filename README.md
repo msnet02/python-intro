@@ -10,7 +10,7 @@ Este repositorio está clonado en los siguientes equipos:
 
 Se ha configurado git agregando "credential.helper -> store" en todos los equipos.
 Se ha reorganizado el código, creando el directorio: python-intro/code.
-Se ha configurado el entorno virtual python-intro/.venv, en cada equipo.
+Se ha configurado el entorno virtual python-intro/venv, en cada equipo.
 
 [Actualización del Personal Access Token: 19/04/2026]
 Se actualiza el Personal Access Token en los equipos:
@@ -18,7 +18,7 @@ ARG-PF33XZ9F: actualizado.
 doc-srv-gen-01.doc.lab: actualizado.
 
 [Reoganización del entorno virtual en python-intro/.venv: 17/05/2026]
-Se reorganiza el entorno virtual en el directorio python-intro/.venv.
+Se reorganiza el entorno virtual en el directorio python-intro/venv.
 
-[Clonación del repositorio a doc-srv-gen-02: 17/05/2026]
+[Clonación del repositorio a doc-srv-gen-02: PROXIMAMENTE] 
 Se planea clonar  el repositorio en doc-srv-gen-02, con su entorno virtual configurado localmente.
