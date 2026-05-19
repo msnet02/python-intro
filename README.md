@@ -5,7 +5,7 @@ Repositorio para estudiar Python
 
 Este repositorio está clonado en los siguientes equipos: 
 - Notebook/trabajo: ARG-PF33XZ9F - SO: Ubuntu 24.04 (WSL)
-- Servidor/LAB: doc-srv-gen-01 - SO: Fedora 43 (Server Edition) 
+- Servidor/LAB: doc-srv-gen-01 - SO: Fedora 44 (Server Edition) 
 - Servidor/LAB: doc-srv-gen-02 - SO: Debian 13 (trixie)
 
 Se ha configurado git agregando "credential.helper -> store" en todos los equipos.
