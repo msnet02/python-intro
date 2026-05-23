@@ -7,6 +7,7 @@ Este repositorio está clonado en los siguientes equipos:
 - Notebook/trabajo: ARG-PF33XZ9F - SO: Ubuntu 24.04 (WSL)
 - Servidor/LAB: doc-srv-gen-01 - SO: Fedora 44 (Server Edition) 
 - Servidor/LAB: doc-srv-gen-02 - SO: Debian 13 (trixie)
+- Servidor/LAB: doc-srv-gen-03 - SO: Debian 13 (trixie)
 
 Se ha configurado git agregando "credential.helper -> store" en todos los equipos.
 Se ha reorganizado el código, creando el directorio: python-intro/code.
@@ -23,3 +24,6 @@ Se actualiza el Personal Access Token en los equipos:
 ARG-PF33XZ9F: actualizado.
 doc-srv-gen-01: actualizado.
 doc-srv-gen-02: N/A: Se conecta mediante SSH con Github.
+
+[Clonación del repositorio a doc-srv-gen-03: 23/05/2026] 
+Se ha clonado el repositorio en doc-srv-gen-03, con su entorno virtual configurado localmente.
