@@ -25,3 +25,6 @@ Se ha clonado el repositorio en doc-srv-gen-03, con su entorno virtual configura
 
 [Clonación mediante SSH, del repositorio a ARG-PF33XZ9F: 24/05/2026] 
 Se ha clonado el repositorio en ARG-PF33XZ9F, con su entorno virtual configurado localmente.
+
+[Clonación mediante SSH, del repositorio a doc-srv-gen-01: 24/05/2026] 
+Se ha clonado el repositorio en doc-srv-gen-01, con su entorno virtual configurado localmente.
