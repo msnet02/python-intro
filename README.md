@@ -28,3 +28,8 @@ Se ha clonado el repositorio en ARG-PF33XZ9F, con su entorno virtual configurado
 
 [Clonación mediante SSH, del repositorio a doc-srv-gen-01: 24/05/2026] 
 Se ha clonado el repositorio en doc-srv-gen-01, con su entorno virtual configurado localmente.
+
+[Migración del segmento de red en el Laboratorio: 12/06/2026]
+doc-srv-gen-01: 192.168.100.30 -> 192.168.1.30
+doc-srv-gen-02: 192.168.100.31 -> 192.168.1.31
+doc-srv-gen-03: 192.168.100.36 -> 192.168.1.36
